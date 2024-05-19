@@ -5,6 +5,7 @@
      public static void main(String[] arge)
      {
        System.out.println("Java sample code that run from jenkins.");
+       System.out.println("Add second line to chick Poll SCM option - on last time !!.");
 
       }
 
