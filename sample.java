@@ -4,9 +4,9 @@
    {
      public static void main(String[] arge)
      {
-       System.out.println("Java sample code that run from jenkins.")
+       System.out.println("Java sample code that run from jenkins.");
 
-         }
+      }
 
    };
    //execute java file today with the build step.
